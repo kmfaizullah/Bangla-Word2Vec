@@ -22,5 +22,5 @@
  <h3> Requirements </h3>
  <p>Install requirements packages by the following command <br> </p>
  
-  '''pip install -r requirments.txt '''
+  ```python pip install -r requirments.txt python```
 
