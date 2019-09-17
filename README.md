@@ -30,3 +30,5 @@
   <li>Window=10 (window size 10) </li>
   <li>size=300 (Vector Dimension) </li>
 </ul>
+<h3> Data-set </h3>
+Keep bangla wiki data into data folder.
