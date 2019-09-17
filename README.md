@@ -20,6 +20,7 @@
   <li>Python  3.6.7 </li>
 </ul>
  <h3> Requirements </h3>
- <p>Install requirements packages by the following command <br>
-  pip install -r requirments.txt </p>
+ <p>Install requirements packages by the following command <br> </p>
+  ``` python 
+  pip install -r requirments.txt ```
 
