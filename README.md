@@ -18,9 +18,8 @@
 <ul>
   <li>This project is tested on CPU Core i5 (6th Gen), 8 GB RAM </li>
   <li>Python  3.6.7 </li>
-  <li>Genesim 3.7.1 </li>
-  <li>Pickle  0.7.5 </li>
-  <li>Pandas  0.23.4 </li>
 </ul>
- 
+ <h3> Requirements </h3>
+ <p>Install requirements packages by the following command <br>
+  pip install -r requirments.txt </p>
 
