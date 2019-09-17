@@ -14,3 +14,10 @@
 
 <h3> Skip Gram </h3>
 <p>Skip Gram is opposite to CBOW. Skip Gram taken target value as input and predicted its neighbouring words.</p>
+<h3> Dependecies </h3>
+-This project is tested on CPU Core i5 (6th Gen), 8 GB RAM
+-Python  3.6.7
+-Genesim 3.7.1
+-Pickle  0.7.5 
+-Pandas  0.23.4  
+
