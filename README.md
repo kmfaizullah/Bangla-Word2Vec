@@ -8,3 +8,9 @@
     <li> Skip Gram </li>
   </ol>
 </ul>
+
+<h3> Continuous bag of words (CBOW) </h3>
+<p>  CBOW finds a target word by given its neighbouring words. Here, a window slides over the text corpus and target words are being predicted. </p>
+
+<h3> Skip Gram </h3>
+<p>Skip Gram is opposite to CBOW. Skip Gram taken target value as input and finds its neighbouring words.</p>
