@@ -24,3 +24,9 @@
  
   ``` pip install -r requirments.txt ```
 
+<h3> Training Parameters </h3>
+<ul>
+  <li>sg=0 (sg=0 for CBOW and sg = 1 for Skip Gram) </li>
+  <li>Window=10 (window size 10) </li>
+  <li>size=300 (Vector Dimension) </li>
+</ul>
